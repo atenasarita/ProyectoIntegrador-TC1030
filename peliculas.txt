@@ -1,0 +1,50 @@
+Her
+R
+Drama, Romance, Sci-Fi
+126
+12/12/2013
+The Tree of Life
+PG-13
+Drama, Fantasy
+139
+16/05/2011
+Guardians of the Galaxy
+PG-13
+Action, Adventure, Comedy
+121
+1/08/2014
+The Princess Bride
+PG
+Adventure, Family, Fantasy
+98
+9/10/1987
+Inception
+PG-13
+Action, Adventure, Sci-Fi
+148
+16/07/2010
+The Grand Budapest Hotel
+R
+Adventure, Comedy, Crime
+99
+28/03/2014
+Get Out
+R
+Horror, Mystery, Thriller
+104
+24/02/2017
+The Silence of the Lambs
+R
+Crime, Drama, Thriller
+118
+14/02/1991
+The Notebook
+PG-13
+Drama, Romance
+123
+25/06/2004
+La La Land
+PG-13
+Comedy, Drama, Music
+128
+9/12/2016
